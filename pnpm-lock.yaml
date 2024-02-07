@@ -7,13 +7,13 @@ settings:
 dependencies:
   gpsl:
     specifier: github:plug-obp/gpsl-js#main
-    version: github.com/plug-obp/gpsl-js/f42ccc47212dae46aabcf3d74c70b9286c552732
+    version: github.com/plug-obp/gpsl-js/863579073e0c22b34fd96f78939f96a1e42e5761
   soup:
     specifier: github:plug-obp/soup-js#main
     version: github.com/plug-obp/soup-js/16855ef1142ef37a50005a9fa996ad62243af270
   z2mc:
     specifier: github:plug-obp/z2mc-js#async_homogeneous
-    version: github.com/plug-obp/z2mc-js/1ab60aefc3ded690716482d9e9fc7b0017604f44
+    version: github.com/plug-obp/z2mc-js/49a1350fcd6baf26282032948e639525c51c6df5
 
 packages:
 
@@ -534,8 +534,8 @@ packages:
     engines: {node: '>= 8'}
     dev: false
 
-  github.com/plug-obp/gpsl-js/f42ccc47212dae46aabcf3d74c70b9286c552732:
-    resolution: {tarball: https://codeload.github.com/plug-obp/gpsl-js/tar.gz/f42ccc47212dae46aabcf3d74c70b9286c552732}
+  github.com/plug-obp/gpsl-js/863579073e0c22b34fd96f78939f96a1e42e5761:
+    resolution: {tarball: https://codeload.github.com/plug-obp/gpsl-js/tar.gz/863579073e0c22b34fd96f78939f96a1e42e5761}
     name: gpsl-js
     version: 1.0.0
     dependencies:
@@ -557,8 +557,8 @@ packages:
       hash-wasm: 4.11.0
     dev: false
 
-  github.com/plug-obp/z2mc-js/1ab60aefc3ded690716482d9e9fc7b0017604f44:
-    resolution: {tarball: https://codeload.github.com/plug-obp/z2mc-js/tar.gz/1ab60aefc3ded690716482d9e9fc7b0017604f44}
+  github.com/plug-obp/z2mc-js/49a1350fcd6baf26282032948e639525c51c6df5:
+    resolution: {tarball: https://codeload.github.com/plug-obp/z2mc-js/tar.gz/49a1350fcd6baf26282032948e639525c51c6df5}
     name: z2mc-javascript
     version: 1.0.0
     dependencies:
