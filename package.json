@@ -1,0 +1,18 @@
+{
+  "name": "z2mc-soup-gpls-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ciprian TEODOROV",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "soup": "github:plug-obp/soup-js#main",
+    "gpsl": "github:plug-obp/gpsl-js#main",
+    "z2mc": "github:teodorov/z2mc-javascript#async_homogeneous"
+  }
+}
