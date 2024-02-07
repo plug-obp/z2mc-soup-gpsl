@@ -12,8 +12,8 @@ dependencies:
     specifier: github:plug-obp/soup-js#main
     version: github.com/plug-obp/soup-js/16855ef1142ef37a50005a9fa996ad62243af270
   z2mc:
-    specifier: github:teodorov/z2mc-javascript#async_homogeneous
-    version: github.com/teodorov/z2mc-javascript/1ab60aefc3ded690716482d9e9fc7b0017604f44
+    specifier: github:plug-obp/z2mc-js#async_homogeneous
+    version: github.com/plug-obp/z2mc-js/1ab60aefc3ded690716482d9e9fc7b0017604f44
 
 packages:
 
@@ -557,8 +557,8 @@ packages:
       hash-wasm: 4.11.0
     dev: false
 
-  github.com/teodorov/z2mc-javascript/1ab60aefc3ded690716482d9e9fc7b0017604f44:
-    resolution: {tarball: https://codeload.github.com/teodorov/z2mc-javascript/tar.gz/1ab60aefc3ded690716482d9e9fc7b0017604f44}
+  github.com/plug-obp/z2mc-js/1ab60aefc3ded690716482d9e9fc7b0017604f44:
+    resolution: {tarball: https://codeload.github.com/plug-obp/z2mc-js/tar.gz/1ab60aefc3ded690716482d9e9fc7b0017604f44}
     name: z2mc-javascript
     version: 1.0.0
     dependencies:

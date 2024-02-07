@@ -13,6 +13,6 @@
   "dependencies": {
     "soup": "github:plug-obp/soup-js#main",
     "gpsl": "github:plug-obp/gpsl-js#main",
-    "z2mc": "github:teodorov/z2mc-javascript#async_homogeneous"
+    "z2mc": "github:plug-obp/z2mc-js#async_homogeneous"
   }
 }

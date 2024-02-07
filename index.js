@@ -8,7 +8,11 @@ import util from 'util';
 
 const BOUND = 3; const FAIL = true;
 //read the model
-const soup = readSoup(`var x = 0; inc: [ x < ${BOUND} ] / x = x + 1 | reset: [x >= ${BOUND}] / x = 0`);
+const soup = readSoup(`
+    var x = 0; 
+    | inc: [ x < ${BOUND} ] / x = x + 1
+    | reset: [x >= ${BOUND}] / x = 0
+`);
 //instantiate the model semantics
 const soupSemantics = new SoupSemantics(soup);
 //adapt to z2mc
