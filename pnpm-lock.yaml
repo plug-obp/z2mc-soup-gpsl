@@ -7,10 +7,10 @@ settings:
 dependencies:
   gpsl:
     specifier: github:plug-obp/gpsl-js#main
-    version: github.com/plug-obp/gpsl-js/9cd8ca6a815b7330b0922ebb73c8883bb109bda7
+    version: github.com/plug-obp/gpsl-js/309ad83b42f7062a4c3b0dda355d390454216d98
   soup:
     specifier: github:plug-obp/soup-js#main
-    version: github.com/plug-obp/soup-js/a8bea0914d105865350c3b0f4f23d0d6b5f17adb
+    version: github.com/plug-obp/soup-js/1e098135a3cf0c211e5ce9ae8fa98dcbfba9bd2d
   z2mc:
     specifier: github:plug-obp/z2mc-js#async_homogeneous
     version: github.com/plug-obp/z2mc-js/3e203794e656ca9e80247f8ff7e0700d62344e53
@@ -538,8 +538,8 @@ packages:
     engines: {node: '>= 8'}
     dev: false
 
-  github.com/plug-obp/gpsl-js/9cd8ca6a815b7330b0922ebb73c8883bb109bda7:
-    resolution: {tarball: https://codeload.github.com/plug-obp/gpsl-js/tar.gz/9cd8ca6a815b7330b0922ebb73c8883bb109bda7}
+  github.com/plug-obp/gpsl-js/309ad83b42f7062a4c3b0dda355d390454216d98:
+    resolution: {tarball: https://codeload.github.com/plug-obp/gpsl-js/tar.gz/309ad83b42f7062a4c3b0dda355d390454216d98}
     name: gpsl-js
     version: 1.0.0
     dependencies:
@@ -551,8 +551,8 @@ packages:
       - supports-color
     dev: false
 
-  github.com/plug-obp/soup-js/a8bea0914d105865350c3b0f4f23d0d6b5f17adb:
-    resolution: {tarball: https://codeload.github.com/plug-obp/soup-js/tar.gz/a8bea0914d105865350c3b0f4f23d0d6b5f17adb}
+  github.com/plug-obp/soup-js/1e098135a3cf0c211e5ce9ae8fa98dcbfba9bd2d:
+    resolution: {tarball: https://codeload.github.com/plug-obp/soup-js/tar.gz/1e098135a3cf0c211e5ce9ae8fa98dcbfba9bd2d}
     name: soup-js
     version: 1.0.0
     dependencies:
