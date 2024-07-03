@@ -11,7 +11,8 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/index.js"
+            "program": "${workspaceFolder}/soup_gpsl_mc.js",
+            "args": ["../soup-js/examples/alice-bob0.soup", "../gpsl-js/examples/no-deadlock.gpsl"]
         }
     ]
 }
